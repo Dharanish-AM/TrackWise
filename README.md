@@ -13,7 +13,6 @@ Built for efficiency and scalability, TrackWise integrates user portals, real-ti
 - 🧩 **Role-Based Access** – Admin, Trainer, Student roles with dedicated interfaces.
 - 🗃️ **Task Management** – Add deadlines, status updates, and progress logs.
 - 📈 **Progress Analytics** – Visual charts and statistics for performance tracking.
-- 🧠 **TryHackMe/LeetCode Integration** – Pull coding stats automatically for monitoring.
 
 ---
 
@@ -31,11 +30,4 @@ Built for efficiency and scalability, TrackWise integrates user portals, real-ti
 - 🧑‍🏫 **Mentorship Programs** – Assign weekly tasks and visualize learning patterns
 - 📈 **Coding Clubs & Hackathon Teams** – Transparent task tracking and leaderboard
 
----
 
-## 📷 Sample Screens (Coming Soon)
-
-- ✅ Task Dashboard
-- 📊 Weekly Progress Tracker
-- 🧑‍🎓 Student Submission Timeline
-- 🔐 Role-based Login Screens
